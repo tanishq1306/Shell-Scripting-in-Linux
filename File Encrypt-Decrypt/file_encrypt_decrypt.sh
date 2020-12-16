@@ -10,6 +10,12 @@ do
 	then 
 		echo "Please Enter The Filename You Want To Encrypt : " 
 		read file
+		: '
+			GNU Privacy Guard (GPG, also GnuPG) is free encryption software
+			that is compliant with the OpenPGP (RFC4880) standard. ... 
+			To use GPG, you create a unique encryption key, and 
+			then use that key to encrypt and decrypt your files.
+		'
 		gpg -c $file
 		echo "File - $file  Has Been Encrypted"
 	else 
