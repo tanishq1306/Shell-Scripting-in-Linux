@@ -18,3 +18,8 @@ Decrypting file -
 
 ## 3. Automated File Generation for web development projects
 ![](https://github.com/tanishq1306/Shell-Scripting-in-Linux/blob/main/Images/automate%20files.png)
+
+```
+for windows use git bash to execute the following scripts
+Note - Project Folder will be created in the same folder you stored the script.
+```
