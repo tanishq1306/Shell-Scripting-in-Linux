@@ -15,3 +15,6 @@ Encrypted file -
 
 Decrypting file - 
 ![](https://github.com/tanishq1306/Shell-Scripting-in-Linux/blob/main/Images/decrypt.png)
+
+## 3. Automated File Generation for web development projects
+![](https://github.com/tanishq1306/Shell-Scripting-in-Linux/blob/main/Images/automate%20files.png)
